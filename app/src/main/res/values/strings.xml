@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Usuarios</string>
+    <string name="texUno">Posición</string>
+    <string name="nombre">Nombre completo</string>
+</resources>
